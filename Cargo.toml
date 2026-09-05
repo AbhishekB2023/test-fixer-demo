@@ -1,0 +1,5 @@
+[package]
+name = "test-fixer-demo"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny demo project for testing the rust-fixer GitHub issue tool"
